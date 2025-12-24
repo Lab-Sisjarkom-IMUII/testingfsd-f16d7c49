@@ -1,0 +1,11 @@
+{
+  "name": "initestingdemo",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "next build",
+  "startCommand": "next start",
+  "domain": "testingfsd",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_01a5178c216957bbc053abc02f02d35ba3cef7a5e2df59f0eecd2d98372feeed",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/testingfsd-f16d7c49.git"
+}
